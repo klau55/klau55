@@ -5,7 +5,8 @@
   I am a software developer
   studying @ Hive Helsinki Coding School
 
-  I code on C, TypeScript, JavaScript(++React && Node), 
+  I code on:
+  C, C++, TypeScript, JavaScript, TypeScript, React, React Native, Node.js
 */
 
 
