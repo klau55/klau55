@@ -6,7 +6,7 @@
   studying @ Hive Helsinki Coding School
 
   I code on:
-  C, C++, TypeScript, JavaScript, TypeScript, React, React Native, Node.js
+  C, C++, TypeScript, JavaScript, React, React Native, Node.js
 */
 
 
